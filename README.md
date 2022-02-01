@@ -17,3 +17,16 @@ The Nearest Airport to McD is Kansas City (MCI) Airport.
 * Filet-O-Fish®
 * World Famous Fries®
 ***
+[About Ramu](AboutMe.md)
+***
+### Sports I Recommend
+Sports are defined as physical or mental exertion by individuals and are committed to maintaining physical or mental fitness. There are many types of exercise that can be practiced as a healthy habit, such as Baseball, Tennis, Football, Cricket, and these sports have many benefits on the human body.
+
+#### Table Below Showing the Details About the Each Sport
+|Name of the Sport| Location    | Amount Needed for Equipment|
+| ---             | ---         |  ---                       |
+|Cricket          |Hyderabad    |  $100                      |
+|Tennis           |Gachibowli   |  $75                       |
+|Baseball         |Maryville    |  $200                      |
+|Football         |Kansas City  |  $250                      |
+***
