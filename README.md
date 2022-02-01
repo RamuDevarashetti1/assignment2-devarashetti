@@ -34,4 +34,4 @@ Sports are defined as physical or mental exertion by individuals and are committ
 #### Quotes I Like
 > Everything is hard before it is easy. *Johann Wolfgang von Goethe*
 
-> Don't let your happiness depend on something you may lose. PC.S. Lewis*
+> Don't let your happiness depend on something you may lose. *PC.S. Lewis*
