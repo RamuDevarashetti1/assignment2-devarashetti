@@ -39,6 +39,7 @@ Sports are defined as physical or mental exertion by individuals and are committ
 ***
 ### Intro to Sqrt (or Square Root) Decomposition Data Structure
 > Sqrt (or Square Root) Decomposition Technique is one of the most common query optimization technique used by competitive programmers. This technique helps us to reduce Time Complexity by a factor of sqrt(n). The key concept of this technique is to decompose given array into small chunks specifically of size sqrt(n).
+
 Here is the link to the Algorithm Intro <https://www.geeksforgeeks.org/sqrt-square-root-decomposition-technique-set-1-introduction/>
 
 ```
