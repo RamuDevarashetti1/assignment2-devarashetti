@@ -10,3 +10,10 @@ The Nearest Airport to McD is Kansas City (MCI) Airport.
 2. Follow I-29 N to US-71 N in Jefferson Township. Take exit 56A from I-29 N (38 min, 43.5 mi)
 3. Follow US-71 N to your destination in Maryville
 4. On your Left side you will find the McD
+
+### Recommended Items from McD
+* Crispy Chicken Sandwich
+* McChicken®
+* Filet-O-Fish®
+* World Famous Fries®
+***
